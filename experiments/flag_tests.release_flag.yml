@@ -5,4 +5,4 @@ type: experiment
 name: release flag
 value:
   - option: true
-    percentage: 50
+    percentage: 80
