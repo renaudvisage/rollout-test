@@ -3,4 +3,6 @@
 flag: flag_tests.release_flag
 type: experiment
 name: release flag
-value: false
+value:
+  - option: true
+    percentage: 50
