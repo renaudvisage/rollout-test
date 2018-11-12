@@ -1,0 +1,6 @@
+type: target-group
+name: Test
+conditions:
+  - operator: regex
+    property: rox.platform
+    operand: sjhdfk
